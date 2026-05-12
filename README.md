@@ -1,91 +1,132 @@
-  
 <p>
-  <h1 align="center"><b>Hello there, I'm Jhon S. Zuluaga 👋</b></h1>
+  <h1 align="center"><b>Hello, I'm Jhon Sebastian Zuluaga 👋</b></h1>
 </p>
 
 <p>
-  <h4 align="center"><b>"Talk is cheap. Show me the code"</b></h4>
+  <h4 align="center"><b>Systems Engineer | Cybersecurity Specialization Student | IAM, SOC & Cloud Security</b></h4>
 </p>
-
 
 <p align="center">
-<br>
-<a href="https://www.youtube.com/@Cybertura"><img src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/sebaszulluaga"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/sebaszulluaga">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/sebaszulluaga">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I am a Systems Engineer currently pursuing a Specialization in Information Security.  
+I am focused on building a career in cybersecurity, especially in Identity and Access Management, Security Operations, Cloud Security, Microsoft Security and Security Governance.
+
+My current goal is to enter the cybersecurity field as an IAM Analyst, SOC Analyst, Security Analyst or Cloud Security Junior.
+
+---
+
+## 🔐 Cybersecurity Focus Areas
+
+- Identity and Access Management
+- Security Operations Center
+- Cloud Security
+- Microsoft Entra ID
+- Multi-Factor Authentication
+- Conditional Access
+- Microsoft 365 Security
+- Incident Response
+- Risk Management
+- ISO 27001
+- Security Governance
+- Security Automation
+
+---
+
+## 🚀 Featured Projects
+
+### Zurzulu Recon
+
+Bash-based reconnaissance automation tool for cybersecurity practice.  
+It integrates tools such as `nmap`, `curl`, `whois` and `jq` to collect information and generate basic reports.
+
+**Focus:** Reconnaissance, automation, Bash scripting and basic pentesting workflow.
+
+---
+
+### Automated Security Audit Tool
+
+Basic security audit automation project designed to support system review, information gathering and reporting for cybersecurity practice.
+
+**Focus:** Security auditing, Linux, automation and reporting.
+
+---
+
+### Mini Security Program for a 10-Employee Company
+
+Practical cybersecurity project focused on designing a basic security program for a small business.
+
+Includes:
+
+- Asset inventory
+- Risk matrix
+- Password and MFA policy
+- IAM model
+- Onboarding and offboarding process
+- Microsoft 365 Business Premium proposal
+- Conditional Access policies
+- Backup plan
+- Incident response plan
+- Data classification
+- DLP basics
+
+**Focus:** IAM, Cloud Security, GRC, Microsoft Security and risk management.
+
+---
+
+## 🧰 Tools and Technologies
+
+<p align="left">
+  <img alt="Linux" width="35px" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" />
+  <img alt="Bash" width="35px" src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png" />
+  <img alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
+  <img alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
+  <img alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />
+  <img alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" />
+  <img alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" />
+  <img alt="MongoDB" width="35px" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" />
+  <img alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />
+  <img alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
+  <img alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
+  <img alt="VS Code" width="35px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
 </p>
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+---
 
-### I am a Systems Engineer Specialist at cybersecurity
-- 🔭 I’m currently working on my Portfolio Website :grin:
-- 🌱 I’m the creator of several scripts in the world of cybersecurity.
-- 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2019 Goals: Contribute to Open Source projects
-- 💬 Ask me about anything, I am happy to help :smile:
-- 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact: I love connecting with different people :raised_hands:
+## 📚 Current Learning Path
 
-<br>
+- SC-900: Microsoft Security, Compliance, and Identity Fundamentals
+- AZ-900: Microsoft Azure Fundamentals
+- Microsoft Entra ID
+- Microsoft Defender
+- Microsoft Purview
+- SOC Fundamentals
+- ISO 27001
+- Risk Management
 
-### Languages and Tools: 
+---
 
-<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<!-- <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />-->
-<img align="left" alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<!--<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />-->
-<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
-<br>
-<br>
-<br>
-<br>
+## 🎯 2026 Goal
 
-<!--
-<details>
-  <summary>:zap: Github Stats</summary>
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sumanth-Talluri&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Lakshya's Github Stats">
-</p>
-<br>
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=radical">
-</p>
-</details> -->
+Land my first cybersecurity role as an IAM Analyst, SOC Analyst, Security Analyst or Cloud Security Junior while continuing to build practical cybersecurity projects.
 
+---
 
+## 📫 Connect with Me
 
-
-<!-- stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=dark)
-![Sumanth's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true")-->
-
-<!-- repos
-<a href="https://github.com/Sumanth-Talluri/Readers-Cabin">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanth-Talluri&repo=Readers-Cabin&theme=dark" />
-</a>
-<a href="https://github.com/Sumanth-Talluri/JPMorgan-Chase-Virtual-Internship">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanth-Talluri&repo=JPMorgan-Chase-Virtual-Internship&theme=dark" />
-</a>
-<a href="https://github.com/Sumanth-Talluri/Python-for-Everybody-Specialization">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanth-Talluri&repo=Python-for-Everybody-Specialization&theme=dark" />
-</a>
--->
-
+- LinkedIn: [linkedin.com/in/sebaszulluaga](https://www.linkedin.com/in/sebaszulluaga)
+- GitHub: [github.com/sebaszulluaga](https://github.com/sebaszulluaga)
 
